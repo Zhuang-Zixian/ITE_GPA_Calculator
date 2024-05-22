@@ -21,10 +21,10 @@ The ITE GPA Calculator is a mobile application developed using Flutter that allo
 
 ## Screenshots of Project
 
-![InitialPage](https://github.com/Zhuang-Zixian/ITE_GPA_Calculator/assets/61621372/9f97ab4f-fda2-4580-bfac-2800ad782d12)
-![Login](https://github.com/Zhuang-Zixian/ITE_GPA_Calculator/assets/61621372/2f987e96-dd5a-41eb-ac55-671cec6905b4)
-![Home](https://github.com/Zhuang-Zixian/ITE_GPA_Calculator/assets/61621372/6657e6f9-9f5b-431f-a7ef-294e101bce5b)
-![Calculator](https://github.com/Zhuang-Zixian/ITE_GPA_Calculator/assets/61621372/23984f6e-58ac-44d3-ab7b-b6b1583f2305)
+<img src="https://github.com/Zhuang-Zixian/ITE_GPA_Calculator/assets/61621372/9f97ab4f-fda2-4580-bfac-2800ad782d12" width="300">
+<img src="https://github.com/Zhuang-Zixian/ITE_GPA_Calculator/assets/61621372/2f987e96-dd5a-41eb-ac55-671cec6905b4" width="300">
+<img src="https://github.com/Zhuang-Zixian/ITE_GPA_Calculator/assets/61621372/6657e6f9-9f5b-431f-a7ef-294e101bce5b" width="300">
+<img src="https://github.com/Zhuang-Zixian/ITE_GPA_Calculator/assets/61621372/23984f6e-58ac-44d3-ab7b-b6b1583f2305" width="300">
 
 
 ## Getting Started
