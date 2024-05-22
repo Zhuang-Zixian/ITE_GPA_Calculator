@@ -21,7 +21,10 @@ The ITE GPA Calculator is a mobile application developed using Flutter that allo
 
 ## Screenshots
 
-Include some screenshots of your app here to showcase its features and design.
+![Screenshot 1](assets/images/InitialPage.png)
+![Screenshot 2](assets/images/Login.png)
+![Screenshot 3](assets/images/Home.png)
+![Screenshot 4](assets/images/Calculator.png)
 
 ## Getting Started
 
@@ -92,4 +95,3 @@ Email: zixianzhuang05@gmail.com
 GitHub: Zhuang-Zixian
 
 This README provides a comprehensive guide for anyone who wants to understand, install, and contribute to your project.
-
